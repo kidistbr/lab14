@@ -10,7 +10,7 @@
 <html>
 <head>
     <title>Title</title>
-    <aspx:CurrentDateTime color="red" size="1px" />
+    <aspx:CurrentDateTime color="red" size="12px" />
 </head>
 <body>
 
